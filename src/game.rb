@@ -11,7 +11,6 @@ class Game < Window
   end
 
   def draw
-    draw_quad 100, 100, 10, 10, Color::White
   end
 end
 
